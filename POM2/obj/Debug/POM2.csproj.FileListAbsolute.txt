@@ -1,0 +1,9 @@
+D:\SeleniumWork\POM2\bin\Debug\POM2.dll
+D:\SeleniumWork\POM2\bin\Debug\POM2.pdb
+D:\SeleniumWork\POM2\bin\Debug\WebDriver.dll
+D:\SeleniumWork\POM2\bin\Debug\WebDriver.Support.dll
+D:\SeleniumWork\POM2\bin\Debug\WebDriver.xml
+D:\SeleniumWork\POM2\bin\Debug\WebDriver.Support.xml
+D:\SeleniumWork\POM2\obj\Debug\POM2.csprojResolveAssemblyReference.cache
+D:\SeleniumWork\POM2\obj\Debug\POM2.dll
+D:\SeleniumWork\POM2\obj\Debug\POM2.pdb
